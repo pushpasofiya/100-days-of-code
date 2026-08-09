@@ -30,4 +30,4 @@ journey automation system.
 
 | Day | Problem | Pattern | Difficulty | Status |
 |-----|---------|---------|------------|--------|
-Automation completed
+Automation completed sucess
